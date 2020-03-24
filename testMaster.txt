@@ -1,1 +1,2 @@
 ﻿master说今天天气好晴朗
+ tartgetBranch说新增了方法
